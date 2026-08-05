@@ -4,6 +4,7 @@
 .pytest_cache/CACHEDIR.TAG
 .pytest_cache/README.md
 .pytest_cache/v/cache/nodeids
+ARTIFACT_MANIFEST.txt
 CHANGELOG.md
 CONTRIBUTING.md
 Dockerfile
@@ -12,6 +13,8 @@ README.md
 app/__init__.py
 app/__pycache__/__init__.cpython-313.pyc
 app/__pycache__/database.cpython-313.pyc
+app/__pycache__/main.cpython-313.pyc
+app/__pycache__/models.cpython-313.pyc
 app/__pycache__/seed.cpython-313.pyc
 app/__pycache__/services.cpython-313.pyc
 app/database.py
@@ -38,12 +41,19 @@ presentation/executive_presentation.md
 presentation/resume_and_interview.md
 requirements.txt
 tests/__pycache__/conftest.cpython-313-pytest-9.0.2.pyc
+tests/__pycache__/conftest.cpython-313.pyc
 tests/__pycache__/test_database.cpython-313-pytest-9.0.2.pyc
+tests/__pycache__/test_database.cpython-313.pyc
+tests/__pycache__/test_explanations.cpython-313-pytest-9.0.2.pyc
+tests/__pycache__/test_explanations.cpython-313.pyc
 tests/__pycache__/test_repository.cpython-313-pytest-9.0.2.pyc
+tests/__pycache__/test_repository.cpython-313.pyc
 tests/__pycache__/test_services.cpython-313-pytest-9.0.2.pyc
+tests/__pycache__/test_services.cpython-313.pyc
 tests/conftest.py
 tests/integration_verification.txt
 tests/test_database.py
+tests/test_explanations.py
 tests/test_repository.py
 tests/test_results.txt
 tests/test_services.py
