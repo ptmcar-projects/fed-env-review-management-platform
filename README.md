@@ -85,4 +85,4 @@ The design is grounded in official federal sources including the Federal Permitt
 ## Author
 
 Preston Mcarthy  
-St. Lawrence University — Data Science and Finance
+St. Lawrence University, Data Science and Finance, Current Rising Sophomore
