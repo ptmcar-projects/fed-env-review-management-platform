@@ -1,6 +1,6 @@
-# Independent Federal Environmental Review Management Modernization Case Study
+# Independent Federal Environmental Review Management Modernization
 
-A complete federal IT modernization case study and working software prototype for managing infrastructure environmental reviews, permits, authorizations, milestones, dependencies, issues, pauses, and portfolio reporting.
+A complete case study of federal IT modernization and working software prototype for managing infrastructure environmental reviews, permits, authorizations, milestones, dependencies, issues, pauses, and portfolio reporting.
 
 ## What this demonstrates
 
